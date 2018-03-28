@@ -1,2 +1,2 @@
 # hackerrank
-Solutions to programming challenges on Hackerrank in Python
+Solutions to programming challenges on Hackerrank in _Python_
