@@ -1,7 +1,7 @@
 #!/bin/python3
-
 # Link to the problem: https://www.hackerrank.com/challenges/compare-the-triplets
 import sys
+
 
 def solve(a0, a1, a2, b0, b1, b2):
     alice = 0

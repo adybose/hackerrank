@@ -1,11 +1,10 @@
 #!/bin/python3
-
 # Link to the problem: https://www.hackerrank.com/challenges/grading
 
 import sys
 
+
 def solve(grades):
-    # Complete this function
     for i in range(len(grades)):
         unit = grades[i] % 10
         if grades[i] >= 38:
@@ -24,4 +23,4 @@ for grades_i in range(n):
     grades_t = int(input().strip())
     grades.append(grades_t)
 result = solve(grades)
-print ("\n".join(map(str, result)))
+print("\n".join(map(str, result)))

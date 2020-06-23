@@ -1,8 +1,8 @@
 #!/bin/python3
-
 # Link to the problem: https://www.hackerrank.com/challenges/simple-array-sum
 
 import sys
+
 
 def simple_array_sum(n, ar):
     s = 0
